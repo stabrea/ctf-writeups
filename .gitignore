@@ -1,0 +1,50 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+venv/
+.venv/
+env/
+
+# Challenge files (may contain large binaries)
+*.pcap
+*.pcapng
+*.raw
+*.img
+*.dd
+
+# Compiled binaries
+*.o
+*.so
+*.exe
+*.elf
+*.out
+
+# Notes and drafts
+TODO.md
+NOTES.md
+drafts/
+scratch/
+
+# Environment and secrets
+.env
+*.key
+*.pem
