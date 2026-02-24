@@ -1,3 +1,4 @@
+\![CI](https://github.com/stabrea/ctf-writeups/actions/workflows/ci.yml/badge.svg)
 # CTF Writeups
 
 A collection of Capture The Flag challenge writeups documenting my approach to solving security challenges across multiple domains. Each writeup covers the attack methodology, the underlying vulnerability, and defensive mitigations — because understanding both sides is what separates a security professional from a script kiddie.
